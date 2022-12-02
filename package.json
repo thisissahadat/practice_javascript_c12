@@ -1,0 +1,16 @@
+{
+  "name": "practice_javascript_c12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node_with_mongo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node_with_mongo.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.12.1"
+  }
+}
